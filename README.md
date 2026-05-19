@@ -1,5 +1,7 @@
 # mcp-test
 
+[![CI](https://github.com/keshavojha11/mcp-test/actions/workflows/ci.yml/badge.svg)](https://github.com/keshavojha11/mcp-test/actions/workflows/ci.yml)
+
 Test your MCP servers locally — no agent required.
 
 ```ts
