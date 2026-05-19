@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "Test your MCP servers locally — no agent required",
   "keywords": ["mcp", "model-context-protocol", "testing", "sdk", "vitest", "jest"],
-  "homepage": "https://github.com/keshavojha/mcp-test",
+  "homepage": "https://github.com/keshavojha11/mcp-test",
   "repository": {
     "type": "git",
-    "url": "https://github.com/keshavojha/mcp-test.git"
+    "url": "https://github.com/keshavojha11/mcp-test.git"
   },
   "license": "MIT",
   "type": "module",
