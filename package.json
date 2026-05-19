@@ -1,5 +1,5 @@
 {
-  "name": "@keshav/mcp-test",
+  "name": "@keshavojha11/mcp-test",
   "version": "0.1.0",
   "description": "Test your MCP servers locally — no agent required",
   "keywords": ["mcp", "model-context-protocol", "testing", "sdk", "vitest", "jest"],

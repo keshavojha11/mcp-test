@@ -3,7 +3,7 @@
 Test your MCP servers locally — no agent required.
 
 ```ts
-import { createTestClient } from "@keshav/mcp-test";
+import { createTestClient } from "@keshavojha11/mcp-test";
 
 const client = await createTestClient({ serverScript: "./dist/server.js" });
 
@@ -24,7 +24,7 @@ Every MCP server needs tests. Before this, your only option was manual: run the 
 ## Install
 
 ```bash
-npm install --save-dev @keshav/mcp-test
+npm install --save-dev @keshavojha11/mcp-test
 ```
 
 Requires Node.js 18+ and a peer of `@modelcontextprotocol/sdk ^1.0.0`.
@@ -80,8 +80,8 @@ Sends stdin EOF and waits for the subprocess to exit. SIGKILL after `closeTimeou
 ```ts
 // server.test.ts
 import { describe, it, afterAll } from "vitest";
-import { createTestClient } from "@keshav/mcp-test";
-import type { TestClient } from "@keshav/mcp-test";
+import { createTestClient } from "@keshavojha11/mcp-test";
+import type { TestClient } from "@keshavojha11/mcp-test";
 
 let client: TestClient;
 
